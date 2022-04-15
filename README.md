@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 LOVELY ROBOT IS A MODULAR BOT WITH ANIME THEME 」──
+    ──「 NIKKOLADY ROBOT IS A MODULAR BOT WITH ANIME THEME 」──
 </h2>
 
 <p align="center">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/3931976db775cf0955241.jpg">
+  <img src="https://te.legra.ph/file/bc1332fce83f3fcc0e312.jpg">
 </p>
 
 <h2 align="center">
@@ -34,9 +34,9 @@
 </h2>
 
 <p align="center">
-<a href="https://t.me/log_afk"> <img src="https://img.shields.io/badge/AFK-User-green?style=for-the-badge&logo=telegram" alt="Vain On Telegrame" /> </a>
-<a href="https://t.me/BLAZE_SUPPORT"> <img src="https://img.shields.io/badge/Support-Chat-green?style=for-the-badge&logo=telegram" alt="Support Chat" /> </a>
-<a href="https://t.me/THE_BLAZE_SUPPORT"> <img src="https://img.shields.io/badge/Update-Channel-green?style=for-the-badge&logo=telegram" alt="Update Channel" /> </a>
+<a href="https://t.me/Silent_L0vER"> <img src="https://img.shields.io/badge/AFK-User-green?style=for-the-badge&logo=telegram" alt="Vain On Telegrame" /> </a>
+<a href="https://t.me/iBotsSupport"> <img src="https://img.shields.io/badge/Support-Chat-green?style=for-the-badge&logo=telegram" alt="Support Chat" /> </a>
+<a href="https://t.me/Dream_With_Music"> <img src="https://img.shields.io/badge/Update-Channel-green?style=for-the-badge&logo=telegram" alt="Update Channel" /> </a>
 </p>
 
 <h2 align="center">
