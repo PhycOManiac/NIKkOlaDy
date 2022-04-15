@@ -79,10 +79,10 @@ def get_readable_time(seconds: int) -> str:
 
     return ping_time
 
-LovelyRobot_IMG = "https://telegra.ph/file/a09bb2525c64301d31990.jpg"
+LovelyRobot_IMG = "https://te.legra.ph/file/bc1332fce83f3fcc0e312.jpg"
 
 PM_START_TEXT = """
-[🌈](https://telegra.ph/file/469f704f4898f10f9cf3b.jpg) ' ☞ ✰Hello... Friends ─ 「[{}]」
+[🌈](https://te.legra.ph/file/bc1332fce83f3fcc0e312.jpg) ' ☞ ✰Hello... Friends ─ 「[{}]」
 Im Powerfull Management Bot And I Will Help In Managing Your Group.
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 × *Uptime:* {}
@@ -104,14 +104,14 @@ buttons = [
                     [                  
                        InlineKeyboardButton(
                              text="🚑 Support",
-                             url="https://t.me/Blaze_Support"),
+                             url="https://t.me/dream_with_music"),
                        InlineKeyboardButton(
                              text="Updates 📢",
-                             url="https://t.me/The_Blaze_Network")
+                             url="https://t.me/iBotsSupport")
                      ],
                     [
                        InlineKeyboardButton(
-                          text="♻️ Source Code ♻️", url="https://github.com/Official-afk-xD/Lovely-Robot")
+                          text="♻️ For Source Code join ♻️", url="https://t.me/iBotsSupport")
 
                      ], 
     ]
@@ -248,7 +248,7 @@ def start(update: Update, context: CallbackContext):
             ),
             parse_mode=ParseMode.HTML,
             reply_markup=InlineKeyboardMarkup(
-                [[InlineKeyboardButton(text="⛦ Support ⛦", url="t.me/UNIQUE_SOCIETY")]]
+                [[InlineKeyboardButton(text="⛦ Support ⛦", url="https://t.me/iBotsSupport")]]
             ),
         )
 
@@ -393,10 +393,10 @@ def LovelyRobot_about_callback(update, context):
                 [
                     [
                         InlineKeyboardButton(
-                            text="🚑 Support", url="t.me/Blaze_Support"
+                            text="🚑 Support", url="t.me/iBotsSupport"
                         ),
                         InlineKeyboardButton(
-                            text="Updates 📢", url="t.me/the_Blaze_Network"
+                            text="Updates 📢", url="t.me/dream_with_music"
                         ),
                     ],
                     [InlineKeyboardButton(text="⛦ Back ⛦", callback_data="LovelyRobot_back")],
@@ -480,12 +480,12 @@ def LovelyRobot_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="⛦Official AFK⛦", url="t.me/log_afk"),
-                    InlineKeyboardButton(text="⛦ Chichat ⛦", url="t.me/UNIQUE_SOCIETY"),
+                    InlineKeyboardButton(text="⛦Official AFK⛦", url="t.me/Silent_L0vER"),
+                    InlineKeyboardButton(text="⛦ Chichat ⛦", url="t.me/iBotsSupport"),
                  ],
                  [
-                    InlineKeyboardButton(text="🚑 Support", url="https://t.me/Blaze_Support"),
-                    InlineKeyboardButton(text="Updates 📢", url="https://t.me/the_Blaze_Network"),
+                    InlineKeyboardButton(text="🚑 Support", url="https://t.me/iBotsSupport"),
+                    InlineKeyboardButton(text="Updates 📢", url="https://t.me/dream_with_music"),
                  ],
                  [
                     InlineKeyboardButton(text="⛦ Back ⛦", callback_data="LovelyRobot_basichelp"),
@@ -503,12 +503,12 @@ def LovelyRobot_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="⛦ Harsh ", url="https://t.me/harsh_Pandit_xd"),
-                    InlineKeyboardButton(text="Evil Boy ⛦", url="https://t.me/EVIL_xd_boy"),
+                    InlineKeyboardButton(text="⛦ DreAM ", url="https://t.me/silent_L0vER"),
+                    InlineKeyboardButton(text="LoST in Music ⛦", url="https://t.me/dream_with_music"),
                  ],
                  [
-                    InlineKeyboardButton(text="⛦ LOG AFK", url="https://t.me/LOG_AFK"),
-                    InlineKeyboardButton(text="Official AFK ⛦", url="https://t.me/Log_Afk_xD"),                
+                    InlineKeyboardButton(text="⛦ LOG AFK", url="https://t.me/dream_with_music"),
+                    InlineKeyboardButton(text="Official AFK ⛦", url="https://t.me/Silent_L0vER"),                
                  ],
                  [
                     InlineKeyboardButton(text="⛦ Back ⛦", callback_data="LovelyRobot_"),
@@ -522,7 +522,7 @@ def Source_about_callback(update, context):
     if query.data == "source_":
         query.message.edit_text(
             text="""⛦➪ Hi..🙂 I'm *LovelyRobot*
-                 \n➪ Here is the [⛦ Source Code ⛦](https://github.com/Official-afk-xD/Lovely-Robot) .""",
+                 \n➪ Here is the [⛦ For Source Code ⛦](https://t.me/iBotsSupport) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
